@@ -1,0 +1,51 @@
+name,machine_id,cpu_time_us,package_energy,core_energy
+MergeSort,neon,17628248,18976817,1625099
+FrogJump,neon,886354,2267201,358167
+Life - sequential generation,neon,111531,562639,34651
+Life - parallel iterators generation,neon,131469,266649,31828
+Life - parallel bridge generation,neon,2416931,3554962,423394
+NBody parallel iterator,neon,40524,133172,25496
+NBody parallel reduce,neon,117858,285340,30242
+NBody sequential,neon,57931,354291,17424
+QuickSort,neon,75511,160606,16341
+Travelling Salesman Problem,neon,5521,0,1572
+MergeSort,neon,17327755,20567158,1707599
+FrogJump,neon,999984,2220527,282868
+Life - sequential generation,neon,117125,511570,28731
+Life - parallel iterators generation,neon,120112,252886,28227
+Life - parallel bridge generation,neon,2401996,3941492,341902
+NBody parallel iterator,neon,42251,113336,14831
+NBody parallel reduce,neon,129474,328093,7339
+NBody sequential,neon,67704,279465,98765
+QuickSort,neon,68842,138421,10604
+Travelling Salesman Problem,neon,5564,14571,2213
+MergeSort,neon,17194650,18295425,3371835
+FrogJump,neon,965336,2372177,249484
+Life - sequential generation,neon,113083,497014,34910
+Life - parallel iterators generation,neon,144913,271440,54471
+Life - parallel bridge generation,neon,2584767,3853927,521915
+NBody parallel iterator,neon,49758,119715,21911
+NBody parallel reduce,neon,123355,340620,55280
+NBody sequential,neon,81207,351849,19484
+QuickSort,neon,83075,164191,19561
+Travelling Salesman Problem,neon,4486,8377,1633
+MergeSort,neon,17399450,19614129,1744935
+FrogJump,neon,1030337,2525077,235919
+Life - sequential generation,neon,120649,568818,33797
+Life - parallel iterators generation,neon,127809,290359,36467
+Life - parallel bridge generation,neon,2602526,4078403,424645
+NBody parallel iterator,neon,31030,107829,19271
+NBody parallel reduce,neon,105535,271608,54716
+NBody sequential,neon,67246,334761,19439
+QuickSort,neon,79544,131356,16311
+Travelling Salesman Problem,neon,3806,13732,1572
+MergeSort,neon,17677188,19271755,1484328
+FrogJump,neon,954474,4349323,383265
+Life - sequential generation,neon,101043,487249,15182
+Life - parallel iterators generation,neon,149868,218510,33064
+Life - parallel bridge generation,neon,2336344,4094912,438347
+NBody parallel iterator,neon,43797,111338,20079
+NBody parallel reduce,neon,138243,298370,48093
+NBody sequential,neon,60538,263857,15777
+QuickSort,neon,68517,141060,20324
+Travelling Salesman Problem,neon,5319,13152,992
