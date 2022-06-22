@@ -1,0 +1,21 @@
+name,machine_id,threads,cpu_time_us,wall_clock_time_us,package_energy,core_energy
+MergeSort,neon,8,102949,30266,310516,38343
+FrogJump,neon,8,1128286,257417,2311801,226932
+Life - sequential generation,neon,1,58085,58150,491811,127618
+Life - parallel iterators generation,neon,8,253121,64011,594817,75603
+Life - parallel bridge generation,neon,8,4627484,671825,5508749,637189
+NBody parallel iterator,neon,8,53448,7998,112436,16403
+NBody parallel reduce,neon,8,237717,51653,581650,78319
+NBody sequential,neon,1,38909,38959,370068,94600
+QuickSort,neon,8,90171,18884,181662,15425
+Travelling Salesman Problem,neon,8,6425,1394,12756,1800
+MergeSort,neon,8,110420,24746,269075,43561
+FrogJump,neon,8,1197797,302629,2773904,303558
+Life - sequential generation,neon,1,55581,55652,489141,27815
+Life - parallel iterators generation,neon,8,259033,61970,563798,72537
+Life - parallel bridge generation,neon,8,4663924,638274,5120966,569474
+NBody parallel iterator,neon,8,55766,9064,116007,16051
+NBody parallel reduce,neon,8,222071,39138,441841,68005
+NBody sequential,neon,1,31581,31826,271272,5523
+QuickSort,neon,8,83122,17851,161232,22856
+Travelling Salesman Problem,neon,8,6811,1347,14800,1846

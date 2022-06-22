@@ -1,0 +1,501 @@
+name,machine_id,threads,cpu_time_us,wall_clock_time_us,package_energy,core_energy
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1105149,30678,3266898,225828
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4909632,243100,14903770,886497
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,90422,76620,4634876,282147
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,243201,19050,1108579,84823
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9089534,1136052,74300225,6055158
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1939292,86527,6120712,559062
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,518945,21255,1400876,87990
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37197,37331,2261835,137378
+QuickSort,dahu-18.grenoble.grid5000.fr,17,272450,16563,1041806,57406
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,11933,1581,58411,7436
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1092635,27114,2809441,187762
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5100317,251217,15354575,905102
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,76830,73154,5290941,495016
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,277537,18613,1378720,135451
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8686981,1085717,72627500,6284399
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1084207,32022,4383351,223777
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,644905,24124,1906978,171191
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36902,37025,2407648,165516
+QuickSort,dahu-18.grenoble.grid5000.fr,17,340569,20794,1234799,72507
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1552,1573,124084,7390
+MergeSort,dahu-18.grenoble.grid5000.fr,43,826570,25204,2131342,176348
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5361608,249770,15249289,897208
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,72940,73112,5252916,501733
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,214698,15739,1043272,83722
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8152707,1018935,69342596,6287581
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,416828,10308,519164,70824
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,589866,20930,1466427,100659
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36900,36975,2321222,162869
+QuickSort,dahu-18.grenoble.grid5000.fr,17,273228,17340,1043515,63067
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,3180,1586,129089,7620
+MergeSort,dahu-18.grenoble.grid5000.fr,43,688507,16598,1861079,111353
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5729059,267536,27771536,1891432
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,79919,76476,4815356,296147
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,269015,19567,1367001,112715
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8061730,1007586,68131234,6076074
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,99402,3807,226623,17442
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,519803,20604,1275449,78076
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36836,36954,2269281,133018
+QuickSort,dahu-18.grenoble.grid5000.fr,17,585675,40755,2438592,143805
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,5607,1681,62622,7253
+MergeSort,dahu-18.grenoble.grid5000.fr,43,991866,47497,3950918,327970
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5574024,272695,16607379,981036
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,85218,77036,4695972,285896
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,183421,15678,969175,57788
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,12653432,1581600,130775544,10560381
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1620605,55759,5089037,384474
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,652340,24060,1846126,131197
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37182,37259,2369623,145411
+QuickSort,dahu-18.grenoble.grid5000.fr,17,203103,11184,698607,49022
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,13891,1051,65002,3626
+MergeSort,dahu-18.grenoble.grid5000.fr,43,918462,24672,2367303,175613
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4507569,224457,13704493,822344
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,90400,74411,4550098,272829
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,211608,15715,982298,57146
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8518162,1064685,72313841,6535288
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,914515,25764,2814690,181167
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,805045,28325,1917842,120763
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37039,37165,2310663,150338
+QuickSort,dahu-18.grenoble.grid5000.fr,17,563264,38406,2338922,139184
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,3946,1036,60852,3581
+MergeSort,dahu-18.grenoble.grid5000.fr,43,787404,28251,2606073,195611
+FrogJump,dahu-18.grenoble.grid5000.fr,23,10594466,498047,32643105,2572037
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,86840,78825,4908130,296040
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,224767,14984,957029,64582
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8129245,1016031,69010199,6231736
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,178466,2968,354430,15116
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,522533,22675,1826411,161369
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37257,37383,2352717,139077
+QuickSort,dahu-18.grenoble.grid5000.fr,17,407498,23611,1414242,81228
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,4945,1056,65491,5691
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1011804,48505,4245961,340317
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5926732,291756,19083020,1441964
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,109064,76039,4712696,277465
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,217218,16334,990598,67840
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8637094,1079492,72945248,6470891
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,2027656,81154,7732280,562444
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,498000,20022,1411678,98746
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36865,37024,2313531,135634
+QuickSort,dahu-18.grenoble.grid5000.fr,17,628054,44925,2784112,160574
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1046,1049,63415,3534
+MergeSort,dahu-18.grenoble.grid5000.fr,43,544028,18272,2405328,131044
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5377562,255463,26277277,1806180
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,133687,75725,4830066,288894
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,202182,16493,985655,57743
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8219635,1027261,69778141,6116481
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,587016,15950,1409786,110512
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,988336,36435,3878225,257330
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36801,36922,2442682,160100
+QuickSort,dahu-18.grenoble.grid5000.fr,17,204489,12674,763243,58476
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,2619,1048,61706,3763
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1111836,31021,2943107,216785
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4839850,236267,14434411,847972
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,183972,77717,4706958,280709
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,218298,17306,1054746,66693
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7975227,996734,67125621,5881412
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,891786,25996,2785149,182101
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,652754,26389,2338007,184534
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37210,37344,2416436,151975
+QuickSort,dahu-18.grenoble.grid5000.fr,17,203448,11553,680113,46497
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,10099,1042,54932,0
+MergeSort,dahu-18.grenoble.grid5000.fr,43,748471,21125,1951594,146574
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5887011,271262,25140988,1966907
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,76634,73162,5328783,501534
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,204930,16662,1108761,84639
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7826772,978183,65957473,5812746
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,103060,3743,303527,25046
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,833162,33337,2630669,241342
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37121,37154,2363520,154209
+QuickSort,dahu-18.grenoble.grid5000.fr,17,320580,18390,1123044,75505
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,62279,1457,68299,3672
+MergeSort,dahu-18.grenoble.grid5000.fr,43,879299,24093,2101801,167902
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5953104,286157,31069378,2001974
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,136419,75229,4733508,281336
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,239807,15927,983213,57467
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7956974,994460,67182079,5941954
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1437308,43834,4531544,300889
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,841259,30735,3466177,220718
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36799,36916,2278254,134624
+QuickSort,dahu-18.grenoble.grid5000.fr,17,511828,32793,2048640,118881
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1040,1042,134154,3626
+MergeSort,dahu-18.grenoble.grid5000.fr,43,712936,25008,3734610,299574
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5309263,262551,16032796,944637
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,93479,75814,4634937,272416
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,228606,16130,1003232,63158
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9149354,1143510,77264023,6853651
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,173896,2885,399352,21710
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,729040,29115,1974849,138756
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37044,37129,2842095,236110
+QuickSort,dahu-18.grenoble.grid5000.fr,17,259122,12446,782652,49894
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,948,977,77942,3672
+MergeSort,dahu-18.grenoble.grid5000.fr,43,961467,23732,2306085,161109
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4709202,229667,14097437,832473
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,78383,78520,4821155,282652
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,204479,16216,983335,57375
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,12881426,1610056,134769858,10987741
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,719876,19920,1833247,139673
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,748533,30453,2619806,213420
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37206,37327,2327142,136599
+QuickSort,dahu-18.grenoble.grid5000.fr,17,338930,18993,1171200,67611
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,13203,1690,60058,3580
+MergeSort,dahu-18.grenoble.grid5000.fr,43,819883,36612,3404532,250171
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5466012,266755,16479572,1026890
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,155989,77061,4817248,291113
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,215145,16501,1044309,57145
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9116762,1139635,79669718,7005640
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1099011,41976,3576651,286034
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,524142,21556,1411312,89092
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37409,37444,2280634,132101
+QuickSort,dahu-18.grenoble.grid5000.fr,17,250494,13436,808103,46542
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,50429,1494,63171,3626
+MergeSort,dahu-18.grenoble.grid5000.fr,43,668661,22310,1898005,153214
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4704214,243455,14925316,876674
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,91409,75674,4585193,269295
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,205510,15646,978818,53381
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7855243,982162,66285597,5900782
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,309932,7731,394591,28519
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,574817,22278,2924126,162149
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36728,36758,2393610,143667
+QuickSort,dahu-18.grenoble.grid5000.fr,17,253648,14205,912473,56992
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,66054,1539,124695,7298
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1092441,56600,4948229,396637
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5645001,269849,16417438,976048
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,79639,74203,4514393,265409
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,220473,15808,992124,63480
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8598718,1074682,72972714,6641852
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1038801,37620,3710806,258876
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,917086,34654,2949028,241067
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37075,37202,2391900,160007
+QuickSort,dahu-18.grenoble.grid5000.fr,17,427877,25408,1618648,97354
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1835,1029,68664,3718
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1128908,31709,3202934,224406
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5532238,271695,16859881,1075253
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,82212,74609,4575306,266541
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,197938,15851,982420,57237
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8497378,1062108,72276243,6633299
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,816849,20311,2886651,206581
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,727630,24567,2050471,135726
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,38015,37058,2406733,145381
+QuickSort,dahu-18.grenoble.grid5000.fr,17,274238,18353,1181943,68162
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,3844,1508,120910,7206
+MergeSort,dahu-18.grenoble.grid5000.fr,43,982207,22881,2456354,165699
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5268978,245511,15009849,879903
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,149603,77994,4768481,284993
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,226809,16611,991330,62929
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7914125,989056,66622937,5926088
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1168061,52245,5084643,359688
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,650332,23067,1523250,108967
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37002,37094,2305048,139582
+QuickSort,dahu-18.grenoble.grid5000.fr,17,688039,46096,2844414,170611
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,23260,1061,69152,6273
+MergeSort,dahu-18.grenoble.grid5000.fr,43,999515,38553,3947255,298916
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5637805,274461,17091692,1099228
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,96269,76567,4708972,281276
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,255999,18631,1297849,118223
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,11569314,1446140,104035379,9413952
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,148887,4183,475584,34700
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,458513,20148,1340573,96115
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37206,37332,2282037,133339
+QuickSort,dahu-18.grenoble.grid5000.fr,17,416755,25581,1604305,94049
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,31181,1557,62500,3764
+MergeSort,dahu-18.grenoble.grid5000.fr,43,771426,26873,2407709,189108
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4839441,240055,14612756,861283
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,149313,76187,4608508,295871
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,241947,19166,1169553,74848
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8271551,1033785,69271307,6065119
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1493319,48113,4804004,401533
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,870596,32681,3236808,226348
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36804,36922,2385858,154959
+QuickSort,dahu-18.grenoble.grid5000.fr,17,459473,24850,1544612,89872
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,5779,1055,59876,3626
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1091174,42849,4740467,342629
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5345032,257991,16080891,1038074
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,74316,73126,5329515,501870
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,241146,17086,1122068,94187
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8696886,1086986,73812860,6702410
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1776732,62582,6229049,440594
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,683877,25636,1718257,120992
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36029,36069,2739373,243729
+QuickSort,dahu-18.grenoble.grid5000.fr,17,411548,25827,1717708,126455
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,32747,1559,123047,7038
+MergeSort,dahu-18.grenoble.grid5000.fr,43,751480,21010,2029414,149175
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5777901,277805,27210379,1957742
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,93482,79384,5194750,364874
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,212492,15407,1049924,81335
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8330234,1041057,69961613,6088038
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1040611,34238,3396537,244509
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,525107,22768,1538692,102051
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36964,37076,2321283,165240
+QuickSort,dahu-18.grenoble.grid5000.fr,17,275256,19390,1191342,82528
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,6247,1579,122741,7161
+MergeSort,dahu-18.grenoble.grid5000.fr,43,747697,23843,2164179,166158
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5221043,250540,19214489,1711947
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,89155,74697,4659717,297968
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,260446,19420,1297665,97308
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8574630,1071634,71306824,6041189
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,99644,3695,288269,21389
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,902719,35006,2708672,241052
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,127594,37366,2501398,160894
+QuickSort,dahu-18.grenoble.grid5000.fr,17,324236,18864,1192196,71512
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1711,1505,124390,8400
+MergeSort,dahu-18.grenoble.grid5000.fr,43,753644,20023,2149653,152617
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5985168,290514,26897636,1977785
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,86389,76508,4708545,281826
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,234396,16196,989805,64168
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8073451,1008989,67508616,5698149
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1238608,47418,4612171,334458
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,859805,26404,2296320,183722
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36744,36859,2395380,181030
+QuickSort,dahu-18.grenoble.grid5000.fr,17,515611,32958,2036188,128627
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,43379,1076,61035,3626
+MergeSort,dahu-18.grenoble.grid5000.fr,43,769840,24471,2309076,174879
+FrogJump,dahu-18.grenoble.grid5000.fr,23,14769365,672252,45253058,3736046
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,172353,77425,4762500,283203
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,273811,19531,1233090,82895
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8642253,1080224,70930360,5827036
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,151367,4732,672483,35649
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,553281,21856,1435971,88572
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37092,37206,2328974,151210
+QuickSort,dahu-18.grenoble.grid5000.fr,17,195318,13509,809995,50444
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,6757,1457,122192,7298
+MergeSort,dahu-18.grenoble.grid5000.fr,43,718882,28436,2139582,199833
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5160332,245975,15212241,987492
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,87932,76701,4753223,300967
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,238180,15781,986691,62929
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8020990,1002287,66365247,5579955
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1187403,46246,4338429,314246
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,647907,26992,2215327,189873
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,35734,35809,2754082,250477
+QuickSort,dahu-18.grenoble.grid5000.fr,17,247362,16589,1071286,78673
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,15748,1604,64270,7390
+MergeSort,dahu-18.grenoble.grid5000.fr,43,688711,26143,2311518,189307
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5135028,244344,14907006,876262
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,78263,74346,4513111,263879
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,202366,15150,911924,57099
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7959656,994794,67240856,6040716
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,599726,16081,1589046,188526
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,853487,30886,3719839,223380
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36734,36855,2374444,140653
+QuickSort,dahu-18.grenoble.grid5000.fr,17,204703,12809,828917,51684
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,5475,1577,129821,7436
+MergeSort,dahu-18.grenoble.grid5000.fr,43,727011,22698,2181635,159059
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5483550,260079,18698194,1771694
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,129121,74917,4695239,291511
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,197542,15115,1000791,58369
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8223681,1027855,69437261,6220965
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,150372,7409,733396,49052
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,500454,21310,1384640,89689
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37138,37272,2274592,132421
+QuickSort,dahu-18.grenoble.grid5000.fr,17,203458,11564,738523,43146
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,7258,1474,124206,7115
+MergeSort,dahu-18.grenoble.grid5000.fr,43,890937,40615,3309013,285483
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5694983,272196,16561115,967052
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,102638,76465,4619068,274436
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,260017,18537,1097837,64902
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9218948,1152142,79553508,7070497
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,72746,4701,441222,28550
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,764761,28552,3427054,205724
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36853,36982,2907036,251119
+QuickSort,dahu-18.grenoble.grid5000.fr,17,338576,18701,2235040,133110
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,5308,1477,241393,14091
+MergeSort,dahu-18.grenoble.grid5000.fr,43,713729,20883,2636529,152556
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5014105,251144,15468832,928052
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,88090,76004,4644702,275583
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,225453,15977,984433,75185
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,11319945,1414862,103460734,9067744
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,182820,2917,395568,21986
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,549459,21594,1406552,81212
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36900,37063,2305109,131642
+QuickSort,dahu-18.grenoble.grid5000.fr,17,249805,15693,1006284,57054
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,10111,1577,67321,7941
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1073603,26413,3304129,209793
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5895347,284089,24247741,2002204
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,111417,79293,5107897,360299
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,238392,18563,1185849,70410
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,11053152,1381539,107256195,9670335
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1660077,66328,7130964,510239
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,756464,27434,2123103,190944
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37016,37142,2618951,253521
+QuickSort,dahu-18.grenoble.grid5000.fr,17,431290,25237,1606686,98991
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1459,1055,123473,13035
+MergeSort,dahu-18.grenoble.grid5000.fr,43,742728,22310,2139643,159089
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4593071,229021,16724871,1635019
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,157252,77087,5137866,439003
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,224726,15392,1026731,82207
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7839672,979768,66021987,5587346
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,130672,3576,281737,22246
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,963759,41497,2653436,170932
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36248,36427,2743463,236737
+QuickSort,dahu-18.grenoble.grid5000.fr,17,457449,25346,1590634,101332
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,3948,1580,52734,3993
+MergeSort,dahu-18.grenoble.grid5000.fr,43,921824,29233,3192741,214827
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4772924,242022,15157432,990002
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,114438,78392,4852160,286049
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,212231,16344,1020322,78076
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8395890,1049384,70845094,6060391
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,161972,5393,684996,42411
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,524421,20521,1459774,141372
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37173,37299,2540826,213068
+QuickSort,dahu-18.grenoble.grid5000.fr,17,205315,13443,914610,54254
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,3381,1568,133300,12898
+MergeSort,dahu-18.grenoble.grid5000.fr,43,806530,20217,2134700,150277
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4758028,226500,15245383,1361348
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,134539,77503,4729114,288940
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,207404,15801,936277,61689
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7647585,956052,64580767,5819462
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,759631,20035,2582879,140454
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,991486,39166,3952566,269586
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36527,36601,2870842,251210
+QuickSort,dahu-18.grenoble.grid5000.fr,17,540539,39444,2559137,163312
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1150,1138,40344,0
+MergeSort,dahu-18.grenoble.grid5000.fr,43,961793,28827,2818962,202358
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4987737,247831,15120689,895509
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,75542,75675,4646412,280954
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,298330,19519,1222043,72063
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,7986531,998091,66391676,5717457
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,190812,3212,523681,28672
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,578697,21472,1451351,92764
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36909,37040,2339654,152801
+QuickSort,dahu-18.grenoble.grid5000.fr,17,601621,48200,2965385,179424
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,31841,1068,60486,3672
+MergeSort,dahu-18.grenoble.grid5000.fr,43,764368,22753,2145807,161476
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5477902,269472,16500507,969898
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,77848,74708,4596729,271590
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,207198,16282,1015440,84961
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8230483,1028756,69330572,6175615
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1239337,46892,5054430,324008
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,622878,25794,1949336,184962
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36577,36702,2303888,138894
+QuickSort,dahu-18.grenoble.grid5000.fr,17,205978,14091,859312,50490
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,62627,1976,127441,7252
+MergeSort,dahu-18.grenoble.grid5000.fr,43,790641,25393,2557305,183508
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5135768,258083,15776387,947468
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,97910,74122,4513111,267536
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,224162,15529,1001402,70410
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8189893,1023597,68359077,5853076
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,3225,3247,416319,21297
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,592941,22388,1520320,99465
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37237,37351,2318903,133431
+QuickSort,dahu-18.grenoble.grid5000.fr,17,555025,40136,2516473,142841
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,24472,1207,123779,7252
+MergeSort,dahu-18.grenoble.grid5000.fr,43,843271,20101,2501885,134288
+FrogJump,dahu-18.grenoble.grid5000.fr,23,9580303,451092,29306993,2232561
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,78549,75492,4757984,308020
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,230898,15878,981809,57696
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8496259,1061838,71082093,6135499
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1873283,55920,5327013,385254
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,1016353,33996,2403497,159778
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37046,37177,2298883,132116
+QuickSort,dahu-18.grenoble.grid5000.fr,17,194350,12074,740721,43421
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,11156,1559,128723,10603
+MergeSort,dahu-18.grenoble.grid5000.fr,43,772262,23850,2217951,174848
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5015868,246948,15165305,891500
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,161437,78525,4806628,282561
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,198715,15010,913511,54162
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9760417,1219901,83755462,7550519
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,205811,5370,1699336,42075
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,641644,21764,1540462,115316
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,39810,37263,2343805,168759
+QuickSort,dahu-18.grenoble.grid5000.fr,17,498505,33239,2041987,129407
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1025,1043,58411,3718
+MergeSort,dahu-18.grenoble.grid5000.fr,43,725679,20398,3130302,235207
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5672367,274800,22695194,1929804
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,83660,80364,6525190,557960
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,221228,17177,1129452,87073
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8896717,1111997,73864495,6096928
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1117358,37755,3827749,266296
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,846915,30436,2430292,211935
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36540,36627,2371881,142978
+QuickSort,dahu-18.grenoble.grid5000.fr,17,573302,37096,2590142,220993
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,9761,1047,68421,7114
+MergeSort,dahu-18.grenoble.grid5000.fr,43,965697,34656,3329154,237762
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5107356,247052,15004539,913410
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,126051,75089,4533557,267750
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,217754,16182,960386,57513
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8650707,1081196,72514158,6359230
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,152267,4791,537413,35267
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,624931,25342,1671627,103045
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36791,36881,2284174,144019
+QuickSort,dahu-18.grenoble.grid5000.fr,17,254921,13646,862485,62378
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,55263,1563,125549,7298
+MergeSort,dahu-18.grenoble.grid5000.fr,43,760045,23102,2247614,161231
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5737354,272420,17016436,1118308
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,80572,77518,4736499,287196
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,224803,15881,934080,67703
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,8070043,1008573,67580150,5915026
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1237273,43124,5437364,391756
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,528267,20544,1393917,91341
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36762,36891,2321711,141647
+QuickSort,dahu-18.grenoble.grid5000.fr,17,250168,14236,938962,63326
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,42697,1555,121948,7573
+MergeSort,dahu-18.grenoble.grid5000.fr,43,758836,20126,1869990,140546
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4721340,225405,13737574,812965
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,112721,73857,5319566,480160
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,271182,19590,1437679,139628
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9599457,1200006,84636014,8551812
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1051725,34965,3601126,243805
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,654113,23392,1636592,112271
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37018,37134,2295770,132881
+QuickSort,dahu-18.grenoble.grid5000.fr,17,532615,35235,2142268,125307
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,26423,1131,65613,3534
+MergeSort,dahu-18.grenoble.grid5000.fr,43,784119,29217,3057243,202694
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4900383,244623,14867455,913165
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,76625,75324,4514637,279990
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,219311,15476,916990,57650
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,11422201,1427620,96289731,9084466
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,186057,3007,382812,22169
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,625172,25243,1921931,176164
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36802,37025,2899590,258509
+QuickSort,dahu-18.grenoble.grid5000.fr,17,250155,12856,906736,83155
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,8820,1072,65979,3672
+MergeSort,dahu-18.grenoble.grid5000.fr,43,736203,23147,2091547,161889
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5166017,256665,15584677,924977
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,102659,78375,4718127,280373
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,250414,16669,1037412,73853
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,11828783,1478408,100380297,9461153
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1011417,32144,3139702,223442
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,945726,34887,2655877,245029
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36955,37065,2280939,141280
+QuickSort,dahu-18.grenoble.grid5000.fr,17,265548,13862,857297,46910
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,6406,1589,123535,7145
+MergeSort,dahu-18.grenoble.grid5000.fr,43,751194,31132,2470391,215041
+FrogJump,dahu-18.grenoble.grid5000.fr,23,4712848,231703,13956873,828128
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,81687,77113,4643054,278078
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,240099,16691,1041440,70946
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9046015,1130560,72536741,5714397
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,881031,29059,2217279,201914
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,602261,22415,1461178,101990
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36963,37081,2267756,141051
+QuickSort,dahu-18.grenoble.grid5000.fr,17,193903,12207,723448,42641
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,8366,1053,64087,3580
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1313024,43930,3870351,306107
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5094066,240338,14797203,937630
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,75386,72212,5246386,502927
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,239705,16610,1049619,76240
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,10763083,1345268,91303172,8575818
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,656986,16411,2546808,174007
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,878133,34629,3572562,249344
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,37045,37130,2393488,154484
+QuickSort,dahu-18.grenoble.grid5000.fr,17,545423,32625,2053523,128490
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,1282,1177,57189,7987
+MergeSort,dahu-18.grenoble.grid5000.fr,43,706995,25848,2536919,181167
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5039757,261827,15809835,931892
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,133956,74625,4444569,262410
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,198756,15894,969846,53841
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9348034,1168391,84936917,7019548
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,55085,3319,378172,29100
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,497893,21460,1377499,79912
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,38042,38176,2376154,135788
+QuickSort,dahu-18.grenoble.grid5000.fr,17,273335,17475,1058469,61567
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,4586,1685,124878,7389
+MergeSort,dahu-18.grenoble.grid5000.fr,43,1103288,23794,2856499,176133
+FrogJump,dahu-18.grenoble.grid5000.fr,23,5084053,256775,16048970,1055731
+Life - sequential generation,dahu-18.grenoble.grid5000.fr,1,78038,75814,4723743,287732
+Life - parallel iterators generation,dahu-18.grenoble.grid5000.fr,15,204441,15481,986692,73485
+Life - parallel bridge generation,dahu-18.grenoble.grid5000.fr,8,9068874,1133441,78248091,7088904
+NBody parallel iterator,dahu-18.grenoble.grid5000.fr,51,1481282,35894,2390924,251256
+NBody parallel reduce,dahu-18.grenoble.grid5000.fr,26,777527,26361,2159479,182682
+NBody sequential,dahu-18.grenoble.grid5000.fr,1,36875,36989,2395746,162333
+QuickSort,dahu-18.grenoble.grid5000.fr,17,338259,18378,1123044,72568
+Travelling Salesman Problem,dahu-18.grenoble.grid5000.fr,10,4190,1547,77881,3442
