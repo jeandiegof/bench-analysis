@@ -1,6 +1,7 @@
-
-
 def calculate_speedups(dataframe):
+    """Takes a dataframe containing the columns threads, name, branch and wall_clock_time_us
+    and returns a dictionary containg the speedup of each triple (name, cores, branch)"""
+    
     single_core_df = dataframe[dataframe['threads'] == 1]
     multi_core_df = dataframe[dataframe['threads'] > 1]
     speedups = {'name': [], 'speedup': [], 'cores': [], 'branch': []}
